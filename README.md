@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Kumar+Singh;" />
 </h1>
 
-<h3 align="center">Full Stack Developer in MERN stack from Bengaluru,india</h3>
+<h3 align="center">Full Stack Developer from Bengaluru,india</h3>
 
 <br/>
 
@@ -26,14 +26,14 @@
 ```javascript
 const Rahul = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "JAVA"],
+    code: ["JavaScript", "JAVA","Typescript"],
     askMeAbout: ["website development", "DSA"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
         databases: ["mongo", "MySql"],
-        misc: ["react","bootstrap","mui","html","css","tailwind","git","redux","postman","nextjs","typescript"]
+        misc: ["react","bootstrap","mui","html","css","tailwind", "git", "redux", "postman","next js","typescript"]
       
     },
  
